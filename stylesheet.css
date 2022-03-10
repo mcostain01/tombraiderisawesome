@@ -1,0 +1,129 @@
+header{
+    background-color: rgb(64, 177, 143);
+    color: ghostwhite;
+    text-align: center;
+    font-size: 60px;
+    margin: 0%;
+}
+
+body{
+  background-color: rgb(209, 185, 169);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+  }
+  /*-- just so the nav bar has a fancy hover function--*/
+  li a:hover {
+    background-color: #111;
+  }
+  footer{
+      background-color: darkgreen;
+      font-size: 30px;
+      color: ghostwhite;
+      text-align: center;
+  }
+  
+  .hints{
+    color: ghostwhite;
+    font-size: 60px;
+    background-color: darkgoldenrod;
+  }
+  
+  h2{
+    background-color: darkcyan;
+    text-align: center;
+    color: ghostwhite;
+    margin: 0%;
+  }
+
+  .blog{
+    background-color: darkolivegreen;
+    text-align: center;
+    color: ghostwhite;
+  }
+
+  .subscribe{
+    background-color: rgb(77, 33, 33);
+    text-align: center;
+    color: ghostwhite;
+  }
+
+  .instructions{
+    background-color: peru;
+  }
+
+  .secrets{
+    font-weight: bold;
+  }
+
+  .levels{
+    font-weight: bold;
+  }
+
+  .enemies{
+    font-weight: bold;
+  }
+
+  .subsy{
+    margin-top: 22%;
+  }
+
+  .center {
+    align-items: center;
+justify-content: center;
+}
+
+.o {
+    font-size: 20px;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subs{
+  border-style: groove;
+  border: 3px;
+}
+
+div.gallery {
+  margin-bottom: 80px;
+  margin: 73px;
+  border: 1px solid rgb(87, 79, 38);
+  float:right;
+  width: 260px;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.gamecover{
+  float: right;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.blow{
+  float: right;
+  padding-right: 200px;
+  width: 30%;
+  padding-bottom: 150px;
+}
